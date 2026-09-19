@@ -25,12 +25,12 @@ function setGreeting() {
   if (!el) return;
 
   const hour = new Date().getHours();
-  let greeting = 'hello';
+  let greeting = 'Hello';
 
-  if (hour < 5) greeting = "you're up late";
-  else if (hour < 12) greeting = 'good morning';
-  else if (hour < 18) greeting = 'good afternoon';
-  else greeting = 'good evening';
+  if (hour < 5) greeting = "You're up late";
+  else if (hour < 12) greeting = 'Good morning';
+  else if (hour < 18) greeting = 'Good afternoon';
+  else greeting = 'Good evening';
 
   el.textContent = greeting;
 }
