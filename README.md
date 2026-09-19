@@ -16,7 +16,7 @@ Software Engineering major.
 ## Sections
 
 - **About Me** — a short intro, tagline, and a few quick facts
-- **Projects** — three sample projects (Bloom Tasks, EchoNotes, CampusConnect), each with a title,
+- **Projects** — three projects (Fitfeed, Wiper Trip AI Prediction, NavKFUPM), each with a title,
   description, tags, and a placeholder image
 - **Skills** — languages, tools, and what I'm currently learning
 - **Contact** — a Name / Email / Message form with client-side validation (no backend)
@@ -24,7 +24,7 @@ Software Engineering major.
 ## Features
 
 - Fully responsive layout (desktop, tablet, mobile) using CSS Grid and Flexbox
-- Light / dark theme toggle, saved between visits with `localStorage`
+- Light / dark theme toggle
 - Mobile hamburger navigation menu
 - Scroll-spy navigation that highlights the section currently in view
 - Time-of-day greeting message ("good morning" / "good afternoon" / "good evening")
@@ -54,8 +54,8 @@ No build step or dependencies are required — it's plain HTML/CSS/JS.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/<your-id>-habiba-abdelaty-assignment1.git
-   cd <your-id>-habiba-abdelaty-assignment1
+   git clone https://github.com/202369850-habibaabdelaty-assignment1.git
+   cd 202369850-habibaabdelaty-assignment1
    ```
 2. Open `index.html` directly in a browser, **or** serve it locally so relative paths and fonts
    behave exactly like production:
@@ -93,5 +93,5 @@ architecture, the design system (colors/type/layout tokens), and how each JavaSc
 ## Academic integrity note
 
 This project was built with AI assistance as an explicitly allowed tool for this assignment. All
-AI-suggested code was reviewed, tested, and edited by me — nothing here was submitted unmodified.
+AI-suggested code was reviewed, tested, and edited by me. Nothing here was submitted unmodified.
 See `docs/ai-usage-report.md` for details.
