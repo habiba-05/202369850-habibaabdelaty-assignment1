@@ -66,15 +66,6 @@ No build step or dependencies are required — it's plain HTML/CSS/JS.
    ```
 3. Visit `http://localhost:8000` (or whichever port your server prints).
 
-## Deploying (optional)
-
-The simplest option is GitHub Pages:
-
-1. Push this repository to GitHub.
-2. Go to **Settings → Pages**.
-3. Set the source branch to `main` and the folder to `/ (root)`.
-4. Your site will be published at `https://<username>.github.io/<repo-name>/`.
-
 ## AI usage
 
 I used Claude (Anthropic) to help scaffold this project — see
