@@ -3,8 +3,6 @@
 A simple, responsive personal portfolio site built as Assignment 1. It introduces me, shows a few
 sample projects, and includes a working (front-end only) contact form.
 
-**Live site:** _add your GitHub Pages / Netlify / Vercel link here once deployed_
-
 ## About this project
 
 This is the starting point of my professional portfolio, built to practice core HTML, CSS, and
