@@ -6,8 +6,7 @@ sample projects, and includes a working (front-end only) contact form.
 ## About this project
 
 This is the starting point of my professional portfolio, built to practice core HTML, CSS, and
-JavaScript, apply responsive design, and get comfortable using AI tools as part of a real
-development workflow. The design direction is soft and "girly" — a blush and berry color palette,
+JavaScript, apply responsive design, and practice core HTML, CSS, and JavaScript, apply responsive design, and develop a practical workflow for planning, coding, testing, and revising a project. The design direction is soft and "girly" — a blush and berry color palette,
 a serif display font, and small code-comment-style labels (`/* like this */`) that nod to my
 Software Engineering major.
 
@@ -70,9 +69,7 @@ No build step or dependencies are required — it's plain HTML/CSS/JS.
 
 I used Claude (Anthropic) to help scaffold this project — see
 [`docs/ai-usage-report.md`](docs/ai-usage-report.md) for the full breakdown of what I used it for,
-what I changed, and what I learned. In short: AI helped me move fast on boilerplate (HTML
-structure, CSS responsive rules, form-validation logic) so I could spend more time on the design
-direction and content, which I reviewed and adjusted by hand.
+what I changed, and what I learned. In short: AI helped me with initial structures, code examples, explanations, and debugging suggestions for the HTML, CSS, and JavaScript. I then adapted the code, added and refined features, and reviewed the result through testing. I also made the main design and content decisions myself.
 
 ## Technical documentation
 
@@ -81,6 +78,5 @@ architecture, the design system (colors/type/layout tokens), and how each JavaSc
 
 ## Academic integrity note
 
-This project was built with AI assistance as an explicitly allowed tool for this assignment. All
-AI-suggested code was reviewed, tested, and edited by me. Nothing here was submitted unmodified.
+This project was built with AI assistance as an explicitly allowed tool for this assignment. I reviewed, tested, and modified the AI-assisted parts of the project before submitting it. I also made my own decisions about the content, design, accessibility, and final implementation.
 See `docs/ai-usage-report.md` for details.
