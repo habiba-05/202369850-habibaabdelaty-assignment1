@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" role="img" aria-labelledby="profileTitle">
+  <title id="profileTitle">Abstract illustration representing Habiba</title>
+  <defs>
+    <linearGradient id="blobGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F3D9DF"/>
+      <stop offset="100%" stop-color="#E7B6C4"/>
+    </linearGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C6547A"/>
+      <stop offset="100%" stop-color="#8A6FA8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- soft background blob -->
+  <path fill="url(#blobGrad)" d="M240,48c72,0,131,36,159,96c24,52,10,104-18,150c-30,49-72,90-141,90
+    c-70,0-127-45-153-104C61,220,72,150,116,102C152,63,193,48,240,48Z"/>
+
+  <!-- dotted orbit ring -->
+  <circle cx="240" cy="238" r="170" fill="none" stroke="url(#ringGrad)" stroke-width="3" stroke-dasharray="2 14" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- simplified figure: hair + shoulders, minimal and abstract -->
+  <path fill="#2B1B22" d="M240,120c-46,0-80,36-80,82c0,20,4,36,4,54c-14,4-22,16-22,30c0,18,14,30,30,30c4,18,24,32,68,32
+    s64-14,68-32c16,0,30-12,30-30c0-14-8-26-22-30c0-18,4-34,4-54C320,156,286,120,240,120Z"/>
+  <ellipse cx="240" cy="228" rx="62" ry="66" fill="#F6E4D8"/>
+
+  <!-- hair bow, small feminine accent -->
+  <path fill="#C6547A" d="M170,150c-12-14-34-10-34,8c0,10,10,16,20,16c-10,4-18,14-14,26c6,14,26,12,32-2
+    c4,16,24,16,30,2c8,14,28,10,32-6c4-14-8-24-20-24c8-6,10-20-2-26c-14-8-30,4-30,18C182,154,178,150,170,150Z" opacity="0.9"/>
+
+  <!-- code bracket motif, ties illustration to software engineering -->
+  <text x="240" y="420" text-anchor="middle" font-family="'Space Mono', monospace" font-size="26" fill="#8A6FA8" opacity="0.85">&lt;/hi&gt;</text>
+</svg>
